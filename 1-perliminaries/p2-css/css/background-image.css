@@ -1,0 +1,18 @@
+* {
+
+}
+
+#box-with-bkg {
+    background: deepskyblue url("../images/pic.jpg") bottom right no-repeat;
+    width: 300px;
+    height: 300px;
+    margin: 30px auto;
+}
+
+#box-with-bkg2 {
+    background: rgba(203, 144, 50, 0.2) url("../images/pic.jpg") center center no-repeat;
+    width: 300px;
+    height: 300px;
+    margin: 30px auto;
+}
+

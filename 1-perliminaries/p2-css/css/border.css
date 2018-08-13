@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.box {
+    background-color: #2f8bff;
+    margin: 20px auto;
+    width: 300px;
+    height: 300px;
+}
+
+#box1 {border: solid 4px black;}
+#box2 {border: dashed 4px black;}
+#box3 {border: dotted 4px black;}
+#box4 {border: double 6px black;}

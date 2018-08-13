@@ -1,0 +1,42 @@
+body {
+    background-color: #f2f2f2;
+}
+
+.blog-header{
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    color: #2f8bff;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.blog-article{
+    background-color: white;
+    margin: 20px auto;
+    width: 800px;
+    padding: 20px;
+}
+
+.blog-article-header h2{
+
+}
+
+.blog-article-header p{
+    padding-bottom: 10px;
+    border-bottom: solid 1px darkgray;
+    margin: 2px auto 5px;
+    color: darkturquoise;
+}
+
+.blog-article-content{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    border-bottom: solid 1px darkgray;
+    margin-bottom: 30px;
+}
+
+.blog-footer{
+    margin: 0 auto;
+    color: dimgray;
+    text-align: center;
+}

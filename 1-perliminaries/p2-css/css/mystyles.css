@@ -1,0 +1,41 @@
+header h1{
+    color: #4d4bff;
+}
+
+body {
+    background-color: beige;
+}
+
+ul {
+    margin: 20px;
+}
+
+#paramount-haha{ /*<p>*/
+    font-family: "Al Bayan", Cochin, sans-serif;
+    padding: 20px;
+    text-align: center;
+}
+
+/*this goes for the article tag with the class name articulating; it's comment, also:)*/
+.articulating{
+    background-color: darksalmon;
+    margin-bottom: 50px;
+}
+
+#funny-box{
+    border-bottom: solid 3px red;
+}
+
+
+
+#hamid-reza p {
+    text-align: center;
+    font-size: 20px;
+    color: violet;
+    padding: 10px;
+    border-bottom: solid 5px red;
+    font-weight: bold;
+    font-style: italic;
+    margin: 0 auto;
+    width: 300px; /*a trick for centering elements*/
+}

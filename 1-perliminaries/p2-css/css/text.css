@@ -1,0 +1,56 @@
+/* somehow resetting the default padding and margins by the browser */
+* {
+    padding: 0;
+    margin: 0;
+    font-weight: normal;
+    font-size: 18px;
+}
+
+body {
+    padding: 30px;
+    font-family: Georgia, Time, serif;
+    color: rgba(6,5,6,1);
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin: 20px 0;
+    font-family: Helvetica, Arial, sans-serif;
+
+    font-weight: 700; /* normal:{100,200,300,400}, bold:{500,600,700}, bolder:{800, 900}*/
+}
+
+h1 {
+    font-size: 3.4em;
+    letter-spacing: 4px;
+}
+
+h2 {
+    font-size: 2.4em;
+}
+
+h3 {
+    font-size: 1.4em;
+}
+
+p#my-paragraph {
+    text-indent: 30px;
+    text-transform: capitalize;
+    line-height: 1.6;
+}
+
+p#another-paragraph{
+    line-height: 2.5; /* 2.5 times the size of the font-size */
+}
+
+span {
+    text-decoration: line-through; /* {underline, overline, line-through, none} */
+}
+
+em {
+    text-transform: uppercase; /* {capitalize, uppercase, lowercase, none} */
+    font-style: italic;
+}
+
+strong {
+    font-weight: bold;
+}
